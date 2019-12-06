@@ -53,6 +53,7 @@ include features/hostapd/hostapd.scc
 
 # Media device support
 include features/media/media.scc
+include features/media/media-usb-webcams.scc
 
 # TPM
 include features/tpm/tpm.scc
